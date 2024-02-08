@@ -1,2 +1,2 @@
-# DRV8873_Breakouts
-DRV8873 Breakouts for internal development
+# DRV8873H_Breakouts
+DRV8873H Breakouts for internal development
